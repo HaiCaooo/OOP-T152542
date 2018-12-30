@@ -1,0 +1,16 @@
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojAssemblyReference.cache
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmHangHoa.resources
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+F:\VLU\nam 4 hoc ky 1\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmNhaCungCap.resources
